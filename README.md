@@ -14,3 +14,5 @@ Of course! Here's the SQL table creation query presented in a table format:
 | category      | varchar(100)    | NOT NULL                      |
 
 You can copy and paste this table format into your documentation or Markdown file for a clear presentation of the table structure.
+
+
